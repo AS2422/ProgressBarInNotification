@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "09B8A27F-553C-455F-8677-5FD8198C7527"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4E080F6-B91D-41BE-A99D-AA2FEC8E2D6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProgressBarTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "updateNotificationWithProgress(progress:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4E080F6-B91D-41BE-A99D-AA2FEC8E2D6F - d8fa254dd9a23dd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgressBarTest.ViewController.updateNotificationWithProgress(progress: Swift.Float) -&gt; ()"
+                  moduleName = "ProgressBarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/ProgressBarTest/ProgressBarTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "D4E080F6-B91D-41BE-A99D-AA2FEC8E2D6F - d46790cad492cd8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.UNNotification&gt;) -&gt; () in ProgressBarTest.ViewController.updateNotificationWithProgress(progress: Swift.Float) -&gt; ()"
+                  moduleName = "ProgressBarTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/ProgressBarTest/ProgressBarTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A40CD098-1E19-4E62-B1D6-87FAF57828EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProgressBarTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "updateNotificationWithProgress(progress:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
